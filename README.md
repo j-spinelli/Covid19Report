@@ -12,7 +12,7 @@ You can find the dataset used for this report here: https://www.kaggle.com/datas
 ## Setup
 
 - for source code, download the . ipynb file.
-- If you only want to read the report, download the html file and open it with any browser.
+- If you only want to read the report,enter: https://j-spinelli.github.io/Covid19Report/. Or download the html file and open it with any browser.
 
 ## Author
 
